@@ -1,5 +1,6 @@
 # project-web-3.0
-Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto 
+![project-web-3.0](https://i.imgur.com/bKEar5i.png)
+Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto  
 
 ## Introduction
 This is a code repository for a practicing Web 3.0 methodologies, Solidity and Metamask with the goal to learn and practice  how to build a real Web 3.0 Application - from start to finish.
